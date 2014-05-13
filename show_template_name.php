@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Show Template Name
-Plugin URI: 
+Plugin URI: http://mintcreative.github.io/show-template-name/
 Description: A simple plugin that puts the filename of any page template into a comment tag in the &lt;head&gt; of your HTML. You can also add an optional comment of your own using the plugin's settings page.
 Author: Jim Richards
 Author URI: http://mintcreative.github.io
